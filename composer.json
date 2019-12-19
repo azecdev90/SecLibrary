@@ -1,0 +1,19 @@
+{
+    "name": "azecdev90/seclibrary",
+    "description": "Simple library for security in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "azecdev90",
+            "email": "amirzecdev@outlook.com"
+        }
+    ],
+     "autoload": {
+      "files": [
+        "src/SecLibrary.php"
+      ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
